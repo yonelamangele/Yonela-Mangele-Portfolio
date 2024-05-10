@@ -1,0 +1,107 @@
+body {
+    background: linear-gradient(#252533, #27263C, #2D2C66, #302E78, #2F2D73, #4542DD, #302E78, #302E78);
+    background-repeat: no-repeat;
+    color: white;
+    /* height: 720px; */
+}
+
+img {
+    width: 150px;
+}
+
+hr {
+    color: white;
+}
+
+ul {
+    width: 100%;
+}
+
+ul {
+    padding: 4ch;
+}
+
+.header {
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    margin: 2ch;
+    border-radius: 1ch;
+    justify-content: space-between;
+}
+
+.tabs {
+    align-content: center;
+    margin: ch;
+    border-radius: 1ch;
+
+}
+
+.footer {
+    color:white;
+    border: thin white;
+    text-align: center;
+    bottom: 0;
+}
+
+.navbar {
+    width: 799.2px;
+    height: 170px;
+    margin-top: 20px;
+}
+
+.navbar-toggler {
+    color: aliceblue;
+    margin-top: -40px;
+    padding: 1ch;
+}
+
+.logo {
+    border-radius: 1ch;
+    justify-content: space-between;
+    width: 150px;
+    margin-top: -30px;
+}
+
+.heading {
+    margin: 25ch;
+    justify-content: center;
+}
+
+
+.edu {
+    margin: -20ch 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.lc {
+    margin: auto;
+    text-align: center;
+}
+
+.lc img {
+    width: 400px;
+    height: 150px;
+}
+
+.cosat {
+    margin: a;
+    text-align: center;
+}
+
+.centre {
+    border-radius: 60%;
+}
+
+.skills {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar-toggler {
+    margin-right: 45px;
+}

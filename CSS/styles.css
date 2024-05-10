@@ -1,0 +1,126 @@
+body {
+    background: linear-gradient(#252533, #27263C, #2D2C66, #302E78, #2F2D73, #4542DD, #302E78, #302E78);
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.yonelamangele {
+    width: 350px;
+}
+
+.photo {
+    width: 150px;
+    height: 425.29px;
+}
+
+hr {
+    color: white;
+}
+
+ul {
+    width: 100%;
+}
+
+ul {
+    padding: 4ch;
+}
+
+.header {
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* .logo {
+    margin: 2ch;
+    border-radius: 1ch;
+    justify-content: space-between;
+} */
+
+.tabs {
+    align-content: center;
+    margin: ch;
+    border-radius: 1ch;
+}
+
+@media (min-width: 300px) and (max-width: 720px) {
+    .yonelamangele {
+        width: 75px; 
+
+    }
+
+}
+
+
+.photo {
+    width: 310px;
+    height: 425.29px;
+    border: solid white;
+    border-radius: 1ch;
+}
+
+
+
+.footer {
+    color:white;
+    border: thin white;
+    text-align: center;
+    bottom: 0;
+}
+
+
+
+.navbar-toggler {
+    margin-right: 45px;
+}
+
+.navbar {
+    width: 799.2px;
+    height: 170px;
+}
+
+.navbar-brand {
+    color: aliceblue !important;
+}
+
+.navbar-toggler {
+    color: aliceblue;
+    margin-top: -40px;
+    padding: 1ch;
+}
+
+.container-fluid {
+    height: 60px;
+}
+
+.logo {
+    /* margin: 2ch; */
+    border-radius: 1ch;
+    justify-content: space-between;
+    width: 150px;
+    margin-top: -40px;
+}
+
+.middle {
+    margin: 20ch;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.pic {
+    margin-left: auto;
+}
+
+.par {
+    margin-right: auto;
+    padding: 9ch;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
